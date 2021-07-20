@@ -4464,5 +4464,17 @@
       "Acceleration":19.4,
       "Year":"1982-01-01",
       "Origin":"USA"
+   },
+   {
+      "Name":"ciaz",
+      "Miles_per_Gallon":27,
+      "Cylinders":4,
+      "Displacement":140,
+      "Horsepower":72,
+      "Weight_in_lbs":2039,
+      "Acceleration":17.6,
+      "Year":"1982-01-01",
+      "Origin":"INDIA"
    }
+   
 ]
