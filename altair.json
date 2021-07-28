@@ -11,7 +11,7 @@
     "BILLING_CITY" : "Newton",
     "BILLING_STATE_CODE" : "MA",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("616")
+    "TOTAL_PRICE" : 616
 },
 
 /* 2 */
@@ -26,7 +26,7 @@
     "BILLING_CITY" : "Tulsa",
     "BILLING_STATE_CODE" : "OK",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("958")
+    "TOTAL_PRICE" : 958
 },
 
 /* 3 */
@@ -41,7 +41,7 @@
     "BILLING_CITY" : "Jacksonville",
     "BILLING_STATE_CODE" : "FL",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("955")
+    "TOTAL_PRICE" : 955
 },
 
 /* 4 */
@@ -56,7 +56,7 @@
     "BILLING_CITY" : "Salt Lake City",
     "BILLING_STATE_CODE" : "UT",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("2962")
+    "TOTAL_PRICE" : 2962
 },
 
 /* 5 */
@@ -71,7 +71,7 @@
     "BILLING_CITY" : "Alpharetta",
     "BILLING_STATE_CODE" : "GA",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("670")
+    "TOTAL_PRICE" : 670
 },
 
 /* 6 */
@@ -86,7 +86,7 @@
     "BILLING_CITY" : "Lansing",
     "BILLING_STATE_CODE" : "MI",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("628")
+    "TOTAL_PRICE" : 628
 },
 
 /* 7 */
@@ -101,7 +101,7 @@
     "BILLING_CITY" : "Washington",
     "BILLING_STATE_CODE" : "DC",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("740")
+    "TOTAL_PRICE" : 740
 },
 
 /* 8 */
@@ -116,7 +116,7 @@
     "BILLING_CITY" : "Indianapolis",
     "BILLING_STATE_CODE" : "IN",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("568")
+    "TOTAL_PRICE" : 568
 },
 
 /* 9 */
@@ -131,7 +131,7 @@
     "BILLING_CITY" : "Saint Petersburg",
     "BILLING_STATE_CODE" : "FL",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("671")
+    "TOTAL_PRICE" : 671
 },
 
 /* 10 */
@@ -146,7 +146,7 @@
     "BILLING_CITY" : "North Hollywood",
     "BILLING_STATE_CODE" : "CA",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("551")
+    "TOTAL_PRICE" : 551
 },
 
 /* 11 */
@@ -161,7 +161,7 @@
     "BILLING_CITY" : "New Orleans",
     "BILLING_STATE_CODE" : "LA",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("976")
+    "TOTAL_PRICE" : 976
 },
 
 /* 12 */
@@ -176,7 +176,7 @@
     "BILLING_CITY" : "Scranton",
     "BILLING_STATE_CODE" : "PA",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("822")
+    "TOTAL_PRICE" : 822
 },
 
 /* 13 */
@@ -191,7 +191,7 @@
     "BILLING_CITY" : "Springfield",
     "BILLING_STATE_CODE" : "IL",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("776")
+    "TOTAL_PRICE" : 776
 },
 
 /* 14 */
@@ -206,7 +206,7 @@
     "BILLING_CITY" : "Jacksonville",
     "BILLING_STATE_CODE" : "FL",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("676")
+    "TOTAL_PRICE" : 676
 },
 
 /* 15 */
@@ -221,7 +221,7 @@
     "BILLING_CITY" : "Fort Worth",
     "BILLING_STATE_CODE" : "TX",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("565")
+    "TOTAL_PRICE" : 565
 },
 
 /* 16 */
@@ -236,7 +236,7 @@
     "BILLING_CITY" : "Florence",
     "BILLING_STATE_CODE" : "SC",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("848")
+    "TOTAL_PRICE" : 848
 },
 
 /* 17 */
@@ -251,7 +251,7 @@
     "BILLING_CITY" : "Indianapolis",
     "BILLING_STATE_CODE" : "IN",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("729")
+    "TOTAL_PRICE" : 729
 },
 
 /* 18 */
@@ -266,7 +266,7 @@
     "BILLING_CITY" : "Houston",
     "BILLING_STATE_CODE" : "TX",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("696")
+    "TOTAL_PRICE" : 696
 },
     
 /* 19 */
@@ -281,7 +281,7 @@
     "BILLING_CITY" : "Chicago",
     "BILLING_STATE_CODE" : "IL",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("817")
+    "TOTAL_PRICE" : 817
 },
 
 /* 20 */
@@ -296,7 +296,7 @@
     "BILLING_CITY" : "Billings",
     "BILLING_STATE_CODE" : "MT",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("835")
+    "TOTAL_PRICE" : 835
 },
 
 /* 21 */
@@ -311,7 +311,7 @@
     "BILLING_CITY" : "Tampa",
     "BILLING_STATE_CODE" : "FL",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("907")
+    "TOTAL_PRICE" : 907
 },
 
 /* 22 */
@@ -326,7 +326,7 @@
     "BILLING_CITY" : "Miami",
     "BILLING_STATE_CODE" : "FL",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("621")
+    "TOTAL_PRICE" : 621
 },
 
 /* 23 */
@@ -341,7 +341,7 @@
     "BILLING_CITY" : "Tacoma",
     "BILLING_STATE_CODE" : "WA",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("598")
+    "TOTAL_PRICE" : 598
 },
 
 /* 24 */
@@ -356,7 +356,7 @@
     "BILLING_CITY" : "Chicago",
     "BILLING_STATE_CODE" : "IL",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("628")
+    "TOTAL_PRICE" : 628
 },
 
 /* 25 */
@@ -371,7 +371,7 @@
     "BILLING_CITY" : "Glendale",
     "BILLING_STATE_CODE" : "AZ",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("500")
+    "TOTAL_PRICE" : 500
 },
 
 /* 26 */
@@ -386,7 +386,7 @@
     "BILLING_CITY" : "Baltimore",
     "BILLING_STATE_CODE" : "MD",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("758")
+    "TOTAL_PRICE" : 758
 },
 
 /* 27 */
@@ -401,7 +401,7 @@
     "BILLING_CITY" : "Anderson",
     "BILLING_STATE_CODE" : "SC",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("751")
+    "TOTAL_PRICE" : 751
 },
 
 /* 28 */
@@ -416,7 +416,7 @@
     "BILLING_CITY" : "Boca Raton",
     "BILLING_STATE_CODE" : "FL",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("700")
+    "TOTAL_PRICE" : 700
 },
 
 /* 29 */
@@ -431,7 +431,7 @@
     "BILLING_CITY" : "Seattle",
     "BILLING_STATE_CODE" : "WA",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("541")
+    "TOTAL_PRICE" : 541
 },
 
 /* 30 */
@@ -446,7 +446,7 @@
     "BILLING_CITY" : "Houston",
     "BILLING_STATE_CODE" : "TX",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("539")
+    "TOTAL_PRICE" : 539
 },
 
 /* 31 */
@@ -461,7 +461,7 @@
     "BILLING_CITY" : "Winston Salem",
     "BILLING_STATE_CODE" : "NC",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("536")
+    "TOTAL_PRICE" : 536
 },
 
 /* 32 */
@@ -476,7 +476,7 @@
     "BILLING_CITY" : "Chicago",
     "BILLING_STATE_CODE" : "IL",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("955")
+    "TOTAL_PRICE" : 955
 },
 
 /* 33 */
@@ -491,7 +491,7 @@
     "BILLING_CITY" : "Saint Louis",
     "BILLING_STATE_CODE" : "MO",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("938")
+    "TOTAL_PRICE" : 938
 },
 
 /* 34 */
@@ -506,7 +506,7 @@
     "BILLING_CITY" : "Pittsburgh",
     "BILLING_STATE_CODE" : "PA",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("689")
+    "TOTAL_PRICE" : 689
 },
 
 /* 35 */
@@ -521,7 +521,7 @@
     "BILLING_CITY" : "Abilene",
     "BILLING_STATE_CODE" : "TX",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("886")
+    "TOTAL_PRICE" : 886
 },
 
 /* 36 */
@@ -536,7 +536,7 @@
     "BILLING_CITY" : "Arlington",
     "BILLING_STATE_CODE" : "TX",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("641")
+    "TOTAL_PRICE" : 641
 },
 
 /* 37 */
@@ -551,7 +551,7 @@
     "BILLING_CITY" : "Little Rock",
     "BILLING_STATE_CODE" : "AR",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("597")
+    "TOTAL_PRICE" : 597
 },
 
 /* 38 */
@@ -566,7 +566,7 @@
     "BILLING_CITY" : "El Paso",
     "BILLING_STATE_CODE" : "TX",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("535")
+    "TOTAL_PRICE" : 535
 },
 
 /* 39 */
@@ -581,7 +581,7 @@
     "BILLING_CITY" : "Honolulu",
     "BILLING_STATE_CODE" : "HI",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("629")
+    "TOTAL_PRICE" : 629
 },
 
 /* 40 */
@@ -596,7 +596,7 @@
     "BILLING_CITY" : "Austin",
     "BILLING_STATE_CODE" : "TX",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("991")
+    "TOTAL_PRICE" : 991
 },
 
 /* 41 */
@@ -611,7 +611,7 @@
     "BILLING_CITY" : "Spartanburg",
     "BILLING_STATE_CODE" : "SC",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("704")
+    "TOTAL_PRICE" : 704
 },
 
 /* 42 */
@@ -626,7 +626,7 @@
     "BILLING_CITY" : "Bronx",
     "BILLING_STATE_CODE" : "NY",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("996")
+    "TOTAL_PRICE" : 996
 },
 
 /* 43 */
@@ -641,7 +641,7 @@
     "BILLING_CITY" : "Young America",
     "BILLING_STATE_CODE" : "MN",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("573")
+    "TOTAL_PRICE" : 573
 },
 
 /* 44 */
@@ -656,7 +656,7 @@
     "BILLING_CITY" : "Huntsville",
     "BILLING_STATE_CODE" : "AL",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("894")
+    "TOTAL_PRICE" : 894
 },
 
 /* 45 */
@@ -671,7 +671,7 @@
     "BILLING_CITY" : "Midland",
     "BILLING_STATE_CODE" : "TX",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("513")
+    "TOTAL_PRICE" : 513
 },
 
 /* 46 */
@@ -686,7 +686,7 @@
     "BILLING_CITY" : "Springfield",
     "BILLING_STATE_CODE" : "MO",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("525")
+    "TOTAL_PRICE" : 525
 },
 
 /* 47 */
@@ -701,7 +701,7 @@
     "BILLING_CITY" : "Charlotte",
     "BILLING_STATE_CODE" : "NC",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("925")
+    "TOTAL_PRICE" : 925
 },
 
 /* 48 */
@@ -716,7 +716,7 @@
     "BILLING_CITY" : "Denver",
     "BILLING_STATE_CODE" : "CO",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("547")
+    "TOTAL_PRICE" : 547
 },
 
 /* 49 */
@@ -731,7 +731,7 @@
     "BILLING_CITY" : "Charleston",
     "BILLING_STATE_CODE" : "SC",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("680")
+    "TOTAL_PRICE" : 680
 },
 
 /* 50 */
@@ -746,6 +746,6 @@
     "BILLING_CITY" : "Los Angeles",
     "BILLING_STATE_CODE" : "CA",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("522")
+    "TOTAL_PRICE" : 522
 }
- ]
+   ]
