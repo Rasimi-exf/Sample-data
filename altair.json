@@ -1,7 +1,7 @@
-/* 1 */
+
 [
     {
-    "_id" : 6101099c18819471490d5079,
+    "_id" : 6101099188194714905079,
     "ORDER_ID" : 1,
     "NAME" : "Nuveen Maryland Quality Municipal Income Fund",
     "DESCRIPTION" : "n/a",
@@ -14,9 +14,9 @@
     "TOTAL_PRICE" : 616
 },
 
-/* 2 */
+
 {
-    "_id" : 6101099c18819471490d507a,
+    "_id" : 610109918819471490507,
     "ORDER_ID" : 2,
     "NAME" : "Cytokinetics Incorporated",
     "DESCRIPTION" : "Major Pharmaceuticals",
@@ -29,9 +29,9 @@
     "TOTAL_PRICE" : 958
 },
 
-/* 3 */
+
 {
-    "_id" : 6101099c18819471490d507b,
+    "_id" : 610109918819471490507,
     "ORDER_ID" : 3,
     "NAME" : "SolarEdge Technologies Inc.",
     "DESCRIPTION" : "Semiconductors",
@@ -44,9 +44,9 @@
     "TOTAL_PRICE" : 955
 },
 
-/* 4 */
+
 {
-    "_id" : 6101099c18819471490d507c,
+    "_id" : 610109918819471490507,
     "ORDER_ID" : 4,
     "NAME" : "Healthcare Realty Trust Incorporated",
     "DESCRIPTION" : "Real Estate Investment Trusts",
@@ -59,9 +59,9 @@
     "TOTAL_PRICE" : 2962
 },
 
-/* 5 */
+
 {
-    "_id" : 6101099c18819471490d507d,
+    "_id" : 610109918819471490507,
     "ORDER_ID" : 5,
     "NAME" : "RRP005-NEW          ",
     "DESCRIPTION" : "Dell laptop with 16gb HDD Intel",
@@ -74,9 +74,9 @@
     "TOTAL_PRICE" : 670
 },
 
-/* 6 */
+    
 {
-    "_id" : 6101099c18819471490d507e,
+    "_id" : 610109918819471490507,
     "ORDER_ID" : 6,
     "NAME" : "Copa Holdings S.A.",
     "DESCRIPTION" : "Air Freight/Delivery Services",
@@ -89,9 +89,9 @@
     "TOTAL_PRICE" : 628
 },
 
-/* 7 */
+
 {
-    "_id" : 6101099c18819471490d507f,
+    "_id" : 610109918819471490507,
     "ORDER_ID" : 7,
     "NAME" : "Exact Sciences Corporation",
     "DESCRIPTION" : "Biotechnology: Commercial Physical & Biological Resarch",
@@ -104,9 +104,9 @@
     "TOTAL_PRICE" : 740
 },
 
-/* 8 */
+
 {
-    "_id" : 6101099c18819471490d5080,
+    "_id" : 6101099188194714905080,
     "ORDER_ID" : 8,
     "NAME" : "SMART Global Holdings Inc.",
     "DESCRIPTION" : "Semiconductors",
@@ -119,9 +119,9 @@
     "TOTAL_PRICE" : 568
 },
 
-/* 9 */
+
 {
-    "_id" : 6101099c18819471490d5081,
+    "_id" : 6101099188194714905081,
     "ORDER_ID" : 9,
     "NAME" : "Altimmune Inc.",
     "DESCRIPTION" : "Major Pharmaceuticals",
@@ -134,9 +134,9 @@
     "TOTAL_PRICE" : 671
 },
 
-/* 10 */
+
 {
-    "_id" : 6101099c18819471490d5082,
+    "_id" : 6101099188194714905082,
     "ORDER_ID" : 10,
     "NAME" : "Tallgrass Energy GP LP",
     "DESCRIPTION" : "Natural Gas Distribution",
@@ -149,9 +149,9 @@
     "TOTAL_PRICE" : 551
 },
 
-/* 11 */
+
 {
-    "_id" : 6101099c18819471490d5083,
+    "_id" : 6101099188194714905083,
     "ORDER_ID" : 11,
     "NAME" : "Tremor Video Inc.",
     "DESCRIPTION" : "Advertising",
@@ -164,9 +164,9 @@
     "TOTAL_PRICE" : 976
 },
 
-/* 12 */
+
 {
-    "_id" : 6101099c18819471490d5084,
+    "_id" : 6101099188194714905084,
     "ORDER_ID" : 12,
     "NAME" : "Capstead Mortgage Corporation",
     "DESCRIPTION" : "n/a",
@@ -179,9 +179,9 @@
     "TOTAL_PRICE" : 822
 },
 
-/* 13 */
+
 {
-    "_id" : 6101099c18819471490d5085,
+    "_id" : 6101099188194714905085,
     "ORDER_ID" : 13,
     "NAME" : "Fortuna Silver Mines Inc.",
     "DESCRIPTION" : "Precious Metals",
@@ -194,9 +194,9 @@
     "TOTAL_PRICE" : 776
 },
 
-/* 14 */
+
 {
-    "_id" : 6101099c18819471490d5086,
+    "_id" : 6101099188194714905086,
     "ORDER_ID" : 14,
     "NAME" : "Sunstone Hotel Investors Inc.",
     "DESCRIPTION" : "n/a",
@@ -209,9 +209,9 @@
     "TOTAL_PRICE" : 676
 },
 
-/* 15 */
+
 {
-    "_id" : 6101099c18819471490d5087,
+    "_id" : 6101099188194714905087,
     "ORDER_ID" : 15,
     "NAME" : "Delta Technology Holdings Limited",
     "DESCRIPTION" : "Major Chemicals",
@@ -224,9 +224,9 @@
     "TOTAL_PRICE" : 565
 },
 
-/* 16 */
+
 {
-    "_id" : 6101099c18819471490d5088,
+    "_id" : 6101099188194714905088,
     "ORDER_ID" : 16,
     "NAME" : "Euro Tech Holdings Company Limited",
     "DESCRIPTION" : "Diversified Electronic Products",
@@ -239,9 +239,9 @@
     "TOTAL_PRICE" : 848
 },
 
-/* 17 */
+
 {
-    "_id" : 6101099c18819471490d5089,
+    "_id" : 6101099188194714905089,
     "ORDER_ID" : 17,
     "NAME" : "Seaspan Corporation",
     "DESCRIPTION" : "Marine Transportation",
@@ -254,9 +254,9 @@
     "TOTAL_PRICE" : 729
 },
 
-/* 18 */
+
 {
-    "_id" : 6101099c18819471490d508a,
+    "_id" : 610109918819471490508,
     "ORDER_ID" : 18,
     "NAME" : "AppFolio Inc.",
     "DESCRIPTION" : "Computer Software: Prepackaged Software",
@@ -269,9 +269,9 @@
     "TOTAL_PRICE" : 696
 },
     
-/* 19 */
+
 {
-    "_id" : 6101099c18819471490d508b,
+    "_id" : 610109918819471490508,
     "ORDER_ID" : 19,
     "NAME" : "News Corporation",
     "DESCRIPTION" : "Newspapers/Magazines",
@@ -284,9 +284,9 @@
     "TOTAL_PRICE" : 817
 },
 
-/* 20 */
+
 {
-    "_id" : 6101099c18819471490d508c,
+    "_id" : 610109918819471490508,
     "ORDER_ID" : 20,
     "NAME" : "The Organics ETF",
     "DESCRIPTION" : "n/a",
@@ -299,9 +299,9 @@
     "TOTAL_PRICE" : 835
 },
 
-/* 21 */
+
 {
-    "_id" : 6101099c18819471490d508d,
+    "_id" : 610109918819471490508,
     "ORDER_ID" : 21,
     "NAME" : "Vident International Equity Fund",
     "DESCRIPTION" : "n/a",
@@ -314,9 +314,9 @@
     "TOTAL_PRICE" : 907
 },
 
-/* 22 */
+
 {
-    "_id" : 6101099c18819471490d508e,
+    "_id" : 610109918819471490508,
     "ORDER_ID" : 22,
     "NAME" : "The Intergroup Corporation",
     "DESCRIPTION" : "Building operators",
@@ -329,9 +329,9 @@
     "TOTAL_PRICE" : 621
 },
 
-/* 23 */
+
 {
-    "_id" : 6101099c18819471490d508f,
+    "_id" : 610109918819471490508,
     "ORDER_ID" : 23,
     "NAME" : "Assured Guaranty Ltd.",
     "DESCRIPTION" : "n/a",
@@ -344,9 +344,9 @@
     "TOTAL_PRICE" : 598
 },
 
-/* 24 */
+
 {
-    "_id" : 6101099c18819471490d5090,
+    "_id" : 6101099188194714905090,
     "ORDER_ID" : 24,
     "NAME" : "Electrum Special Acquisition Corporation",
     "DESCRIPTION" : "Business Services",
@@ -359,9 +359,9 @@
     "TOTAL_PRICE" : 628
 },
 
-/* 25 */
+
 {
-    "_id" : 6101099c18819471490d5091,
+    "_id" : 6101099188194714905091,
     "ORDER_ID" : 25,
     "NAME" : "Blackrock MuniEnhanced Fund Inc.",
     "DESCRIPTION" : "n/a",
@@ -374,9 +374,9 @@
     "TOTAL_PRICE" : 500
 },
 
-/* 26 */
+
 {
-    "_id" : 6101099c18819471490d5092,
+    "_id" : 6101099188194714905092,
     "ORDER_ID" : 26,
     "NAME" : "Asia Pacific Wire & Cable Corporation Limited",
     "DESCRIPTION" : "Telecommunications Equipment",
@@ -389,9 +389,9 @@
     "TOTAL_PRICE" : 758
 },
 
-/* 27 */
+
 {
-    "_id" : 6101099c18819471490d5093,
+    "_id" : 6101099188194714905093,
     "ORDER_ID" : 27,
     "NAME" : "DelMar Pharmaceuticals Inc.",
     "DESCRIPTION" : "Major Pharmaceuticals",
@@ -404,9 +404,9 @@
     "TOTAL_PRICE" : 751
 },
 
-/* 28 */
+
 {
-    "_id" : 6101099c18819471490d5094,
+    "_id" : 6101099188194714905094,
     "ORDER_ID" : 28,
     "NAME" : "NXP Semiconductors N.V.",
     "DESCRIPTION" : "Semiconductors",
@@ -419,9 +419,9 @@
     "TOTAL_PRICE" : 700
 },
 
-/* 29 */
+
 {
-    "_id" : 6101099c18819471490d5095,
+    "_id" : 6101099188194714905095,
     "ORDER_ID" : 29,
     "NAME" : "PROS Holdings Inc.",
     "DESCRIPTION" : "EDP Services",
@@ -434,9 +434,9 @@
     "TOTAL_PRICE" : 541
 },
 
-/* 30 */
+
 {
-    "_id" : 6101099c18819471490d5096,
+    "_id" : 6101099188194714905096,
     "ORDER_ID" : 30,
     "NAME" : "Altimmune Inc.",
     "DESCRIPTION" : "Major Pharmaceuticals",
@@ -449,9 +449,9 @@
     "TOTAL_PRICE" : 539
 },
 
-/* 31 */
+
 {
-    "_id" : 6101099c18819471490d5097,
+    "_id" : 6101099188194714905097,
     "ORDER_ID" : 31,
     "NAME" : "Rexnord Corporation",
     "DESCRIPTION" : "Industrial Machinery/Components",
@@ -464,9 +464,9 @@
     "TOTAL_PRICE" : 536
 },
 
-/* 32 */
+
 {
-    "_id" : 6101099c18819471490d5098,
+    "_id" : 6101099188194714905098,
     "ORDER_ID" : 32,
     "NAME" : "Japan Smaller Capitalization Fund Inc",
     "DESCRIPTION" : "n/a",
@@ -479,9 +479,9 @@
     "TOTAL_PRICE" : 955
 },
 
-/* 33 */
+
 {
-    "_id" : 6101099c18819471490d5099,
+    "_id" : 6101099188194714905099,
     "ORDER_ID" : 33,
     "NAME" : "Resources Connection Inc.",
     "DESCRIPTION" : "Business Services",
@@ -494,9 +494,9 @@
     "TOTAL_PRICE" : 938
 },
 
-/* 34 */
+
 {
-    "_id" : 6101099c18819471490d509a,
+    "_id" : 610109918819471490509,
     "ORDER_ID" : 34,
     "NAME" : "Annaly Capital Management Inc",
     "DESCRIPTION" : "n/a",
@@ -509,9 +509,9 @@
     "TOTAL_PRICE" : 689
 },
 
-/* 35 */
+
 {
-    "_id" : 6101099c18819471490d509b,
+    "_id" : 610109918819471490509,
     "ORDER_ID" : 35,
     "NAME" : "Sientra Inc.",
     "DESCRIPTION" : "Industrial Specialties",
@@ -524,9 +524,9 @@
     "TOTAL_PRICE" : 886
 },
 
-/* 36 */
+
 {
-    "_id" : 6101099c18819471490d509c,
+    "_id" : 610109918819471490509,
     "ORDER_ID" : 36,
     "NAME" : "Brookfield Asset Management Inc",
     "DESCRIPTION" : "Building operators",
@@ -539,9 +539,9 @@
     "TOTAL_PRICE" : 641
 },
 
-/* 37 */
+
 {
-    "_id" : 6101099c18819471490d509d,
+    "_id" : 610109918819471490509,
     "ORDER_ID" : 37,
     "NAME" : "EastGroup Properties Inc.",
     "DESCRIPTION" : "Real Estate Investment Trusts",
@@ -554,9 +554,9 @@
     "TOTAL_PRICE" : 597
 },
 
-/* 38 */
+
 {
-    "_id" : 6101099c18819471490d509e,
+    "_id" : 610109918819471490509,
     "ORDER_ID" : 38,
     "NAME" : "Dawson Geophysical Company",
     "DESCRIPTION" : "Oil & Gas Production",
@@ -569,9 +569,9 @@
     "TOTAL_PRICE" : 535
 },
 
-/* 39 */
+
 {
-    "_id" : 6101099c18819471490d509f,
+    "_id" : 610109918819471490509,
     "ORDER_ID" : 39,
     "NAME" : "NN Inc.",
     "DESCRIPTION" : "Metal Fabrications",
@@ -584,9 +584,9 @@
     "TOTAL_PRICE" : 629
 },
 
-/* 40 */
+
 {
-    "_id" : 6101099c18819471490d50a0,
+    "_id" : 610109918819471490500,
     "ORDER_ID" : 40,
     "NAME" : "QCR Holdings Inc.",
     "DESCRIPTION" : "Major Banks",
@@ -599,9 +599,9 @@
     "TOTAL_PRICE" : 991
 },
 
-/* 41 */
+
 {
-    "_id" : 6101099c18819471490d50a1,
+    "_id" : 610109918819471490501,
     "ORDER_ID" : 41,
     "NAME" : "Health Insurance Innovations Inc.",
     "DESCRIPTION" : "Specialty Insurers",
@@ -614,9 +614,9 @@
     "TOTAL_PRICE" : 704
 },
 
-/* 42 */
+
 {
-    "_id" : 6101099c18819471490d50a2,
+    "_id" : 610109918819471490502,
     "ORDER_ID" : 42,
     "NAME" : "PIMCO Dynamic Income Fund",
     "DESCRIPTION" : "n/a",
@@ -629,9 +629,9 @@
     "TOTAL_PRICE" : 996
 },
 
-/* 43 */
+
 {
-    "_id" : 6101099c18819471490d50a3,
+    "_id" : 610109918819471490503,
     "ORDER_ID" : 43,
     "NAME" : "Casella Waste Systems Inc.",
     "DESCRIPTION" : "Environmental Services",
@@ -644,9 +644,9 @@
     "TOTAL_PRICE" : 573
 },
 
-/* 44 */
+
 {
-    "_id" : 6101099c18819471490d50a4,
+    "_id" : 610109918819471490504,
     "ORDER_ID" : 44,
     "NAME" : "Angie's List Inc.",
     "DESCRIPTION" : "Advertising",
@@ -659,9 +659,9 @@
     "TOTAL_PRICE" : 894
 },
 
-/* 45 */
+
 {
-    "_id" : 6101099c18819471490d50a5,
+    "_id" : 610109918819471490505,
     "ORDER_ID" : 45,
     "NAME" : "Carriage Services Inc.",
     "DESCRIPTION" : "Other Consumer Services",
@@ -674,9 +674,9 @@
     "TOTAL_PRICE" : 513
 },
 
-/* 46 */
+
 {
-    "_id" : 6101099c18819471490d50a6,
+    "_id" : 610109918819471490506,
     "ORDER_ID" : 46,
     "NAME" : "OFG Bancorp",
     "DESCRIPTION" : "n/a",
@@ -689,9 +689,9 @@
     "TOTAL_PRICE" : 525
 },
 
-/* 47 */
+
 {
-    "_id" : 6101099c18819471490d50a7,
+    "_id" : 610109918819471490507,
     "ORDER_ID" : 47,
     "NAME" : "Xencor Inc.",
     "DESCRIPTION" : "Major Pharmaceuticals",
@@ -704,9 +704,9 @@
     "TOTAL_PRICE" : 925
 },
 
-/* 48 */
+
 {
-    "_id" : 6101099c18819471490d50a8,
+    "_id" : 610109918819471490508,
     "ORDER_ID" : 48,
     "NAME" : "Capitala Finance Corp.",
     "DESCRIPTION" : "n/a",
@@ -719,9 +719,9 @@
     "TOTAL_PRICE" : 547
 },
 
-/* 49 */
+
 {
-    "_id" : 6101099c18819471490d50a9,
+    "_id" : 610109918819471490509,
     "ORDER_ID" : 49,
     "NAME" : "Anheuser-Busch Inbev SA",
     "DESCRIPTION" : "Beverages (Production/Distribution)",
@@ -734,9 +734,9 @@
     "TOTAL_PRICE" : 680
 },
 
-/* 50 */
+
 {
-    "_id" : 6101099c18819471490d50aa,
+    "_id" : 61010991881947149050,
     "ORDER_ID" : 50,
     "NAME" : "Curtiss-Wright Corporation",
     "DESCRIPTION" : "Industrial Machinery/Components",
