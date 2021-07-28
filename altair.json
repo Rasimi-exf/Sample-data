@@ -10,7 +10,7 @@
     "BILLING_CITY" : "Newton",
     "BILLING_STATE_CODE" : "MA",
     "BILLING_COUNTRY_CODE" : "US",
-    "TOTAL_PRICE" : NumberDecimal("616")
+    "TOTAL_PRICE" : 616
 }
 
 /* 2 */
