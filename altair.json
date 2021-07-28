@@ -1,8 +1,8 @@
 /* 1 */
 [
     {
-    "_id" : ObjectId("6101099c18819471490d5079"),
-    "ORDER_ID" : NumberDecimal("1"),
+    "_id" : 6101099c18819471490d5079,
+    "ORDER_ID" : 1,
     "NAME" : "Nuveen Maryland Quality Municipal Income Fund",
     "DESCRIPTION" : "n/a",
     "BOOK_STATUS" : "Progress",
@@ -16,8 +16,8 @@
 
 /* 2 */
 {
-    "_id" : ObjectId("6101099c18819471490d507a"),
-    "ORDER_ID" : NumberDecimal("2"),
+    "_id" : 6101099c18819471490d507a,
+    "ORDER_ID" : 2,
     "NAME" : "Cytokinetics Incorporated",
     "DESCRIPTION" : "Major Pharmaceuticals",
     "BOOK_STATUS" : "Progress",
@@ -31,8 +31,8 @@
 
 /* 3 */
 {
-    "_id" : ObjectId("6101099c18819471490d507b"),
-    "ORDER_ID" : NumberDecimal("3"),
+    "_id" : 6101099c18819471490d507b,
+    "ORDER_ID" : 3,
     "NAME" : "SolarEdge Technologies Inc.",
     "DESCRIPTION" : "Semiconductors",
     "BOOK_STATUS" : "Booked",
@@ -46,8 +46,8 @@
 
 /* 4 */
 {
-    "_id" : ObjectId("6101099c18819471490d507c"),
-    "ORDER_ID" : NumberDecimal("4"),
+    "_id" : 6101099c18819471490d507c,
+    "ORDER_ID" : 4,
     "NAME" : "Healthcare Realty Trust Incorporated",
     "DESCRIPTION" : "Real Estate Investment Trusts",
     "BOOK_STATUS" : "Progress",
@@ -61,8 +61,8 @@
 
 /* 5 */
 {
-    "_id" : ObjectId("6101099c18819471490d507d"),
-    "ORDER_ID" : NumberDecimal("5"),
+    "_id" : 6101099c18819471490d507d,
+    "ORDER_ID" : 5,
     "NAME" : "RRP005-NEW          ",
     "DESCRIPTION" : "Dell laptop with 16gb HDD Intel",
     "BOOK_STATUS" : "Booked",
@@ -76,8 +76,8 @@
 
 /* 6 */
 {
-    "_id" : ObjectId("6101099c18819471490d507e"),
-    "ORDER_ID" : NumberDecimal("6"),
+    "_id" : 6101099c18819471490d507e,
+    "ORDER_ID" : 6,
     "NAME" : "Copa Holdings S.A.",
     "DESCRIPTION" : "Air Freight/Delivery Services",
     "BOOK_STATUS" : "Cancelled",
@@ -91,8 +91,8 @@
 
 /* 7 */
 {
-    "_id" : ObjectId("6101099c18819471490d507f"),
-    "ORDER_ID" : NumberDecimal("7"),
+    "_id" : 6101099c18819471490d507f,
+    "ORDER_ID" : 7,
     "NAME" : "Exact Sciences Corporation",
     "DESCRIPTION" : "Biotechnology: Commercial Physical & Biological Resarch",
     "BOOK_STATUS" : "Booked",
@@ -106,8 +106,8 @@
 
 /* 8 */
 {
-    "_id" : ObjectId("6101099c18819471490d5080"),
-    "ORDER_ID" : NumberDecimal("8"),
+    "_id" : 6101099c18819471490d5080,
+    "ORDER_ID" : 8,
     "NAME" : "SMART Global Holdings Inc.",
     "DESCRIPTION" : "Semiconductors",
     "BOOK_STATUS" : "Progress",
@@ -121,8 +121,8 @@
 
 /* 9 */
 {
-    "_id" : ObjectId("6101099c18819471490d5081"),
-    "ORDER_ID" : NumberDecimal("9"),
+    "_id" : 6101099c18819471490d5081,
+    "ORDER_ID" : 9,
     "NAME" : "Altimmune Inc.",
     "DESCRIPTION" : "Major Pharmaceuticals",
     "BOOK_STATUS" : "Booked",
@@ -136,8 +136,8 @@
 
 /* 10 */
 {
-    "_id" : ObjectId("6101099c18819471490d5082"),
-    "ORDER_ID" : NumberDecimal("10"),
+    "_id" : 6101099c18819471490d5082,
+    "ORDER_ID" : 10,
     "NAME" : "Tallgrass Energy GP LP",
     "DESCRIPTION" : "Natural Gas Distribution",
     "BOOK_STATUS" : "Booked",
@@ -151,8 +151,8 @@
 
 /* 11 */
 {
-    "_id" : ObjectId("6101099c18819471490d5083"),
-    "ORDER_ID" : NumberDecimal("11"),
+    "_id" : 6101099c18819471490d5083,
+    "ORDER_ID" : 11,
     "NAME" : "Tremor Video Inc.",
     "DESCRIPTION" : "Advertising",
     "BOOK_STATUS" : "Cancelled",
@@ -166,8 +166,8 @@
 
 /* 12 */
 {
-    "_id" : ObjectId("6101099c18819471490d5084"),
-    "ORDER_ID" : NumberDecimal("12"),
+    "_id" : 6101099c18819471490d5084,
+    "ORDER_ID" : 12,
     "NAME" : "Capstead Mortgage Corporation",
     "DESCRIPTION" : "n/a",
     "BOOK_STATUS" : "Booked",
@@ -181,8 +181,8 @@
 
 /* 13 */
 {
-    "_id" : ObjectId("6101099c18819471490d5085"),
-    "ORDER_ID" : NumberDecimal("13"),
+    "_id" : 6101099c18819471490d5085,
+    "ORDER_ID" : 13,
     "NAME" : "Fortuna Silver Mines Inc.",
     "DESCRIPTION" : "Precious Metals",
     "BOOK_STATUS" : "Progress",
@@ -196,8 +196,8 @@
 
 /* 14 */
 {
-    "_id" : ObjectId("6101099c18819471490d5086"),
-    "ORDER_ID" : NumberDecimal("14"),
+    "_id" : 6101099c18819471490d5086,
+    "ORDER_ID" : 14,
     "NAME" : "Sunstone Hotel Investors Inc.",
     "DESCRIPTION" : "n/a",
     "BOOK_STATUS" : "Cancelled",
@@ -211,8 +211,8 @@
 
 /* 15 */
 {
-    "_id" : ObjectId("6101099c18819471490d5087"),
-    "ORDER_ID" : NumberDecimal("15"),
+    "_id" : 6101099c18819471490d5087,
+    "ORDER_ID" : 15,
     "NAME" : "Delta Technology Holdings Limited",
     "DESCRIPTION" : "Major Chemicals",
     "BOOK_STATUS" : "Booked",
@@ -226,8 +226,8 @@
 
 /* 16 */
 {
-    "_id" : ObjectId("6101099c18819471490d5088"),
-    "ORDER_ID" : NumberDecimal("16"),
+    "_id" : 6101099c18819471490d5088,
+    "ORDER_ID" : 16,
     "NAME" : "Euro Tech Holdings Company Limited",
     "DESCRIPTION" : "Diversified Electronic Products",
     "BOOK_STATUS" : "Booked",
@@ -241,8 +241,8 @@
 
 /* 17 */
 {
-    "_id" : ObjectId("6101099c18819471490d5089"),
-    "ORDER_ID" : NumberDecimal("17"),
+    "_id" : 6101099c18819471490d5089,
+    "ORDER_ID" : 17,
     "NAME" : "Seaspan Corporation",
     "DESCRIPTION" : "Marine Transportation",
     "BOOK_STATUS" : "Progress",
@@ -256,8 +256,8 @@
 
 /* 18 */
 {
-    "_id" : ObjectId("6101099c18819471490d508a"),
-    "ORDER_ID" : NumberDecimal("18"),
+    "_id" : 6101099c18819471490d508a,
+    "ORDER_ID" : 18,
     "NAME" : "AppFolio Inc.",
     "DESCRIPTION" : "Computer Software: Prepackaged Software",
     "BOOK_STATUS" : "Cancelled",
@@ -271,8 +271,8 @@
     
 /* 19 */
 {
-    "_id" : ObjectId("6101099c18819471490d508b"),
-    "ORDER_ID" : NumberDecimal("19"),
+    "_id" : 6101099c18819471490d508b,
+    "ORDER_ID" : 19,
     "NAME" : "News Corporation",
     "DESCRIPTION" : "Newspapers/Magazines",
     "BOOK_STATUS" : "Cancelled",
@@ -286,8 +286,8 @@
 
 /* 20 */
 {
-    "_id" : ObjectId("6101099c18819471490d508c"),
-    "ORDER_ID" : NumberDecimal("20"),
+    "_id" : 6101099c18819471490d508c,
+    "ORDER_ID" : 20,
     "NAME" : "The Organics ETF",
     "DESCRIPTION" : "n/a",
     "BOOK_STATUS" : "Cancelled",
@@ -301,8 +301,8 @@
 
 /* 21 */
 {
-    "_id" : ObjectId("6101099c18819471490d508d"),
-    "ORDER_ID" : NumberDecimal("21"),
+    "_id" : 6101099c18819471490d508d,
+    "ORDER_ID" : 21,
     "NAME" : "Vident International Equity Fund",
     "DESCRIPTION" : "n/a",
     "BOOK_STATUS" : "Progress",
@@ -316,8 +316,8 @@
 
 /* 22 */
 {
-    "_id" : ObjectId("6101099c18819471490d508e"),
-    "ORDER_ID" : NumberDecimal("22"),
+    "_id" : 6101099c18819471490d508e,
+    "ORDER_ID" : 22,
     "NAME" : "The Intergroup Corporation",
     "DESCRIPTION" : "Building operators",
     "BOOK_STATUS" : "Booked",
@@ -331,8 +331,8 @@
 
 /* 23 */
 {
-    "_id" : ObjectId("6101099c18819471490d508f"),
-    "ORDER_ID" : NumberDecimal("23"),
+    "_id" : 6101099c18819471490d508f,
+    "ORDER_ID" : 23,
     "NAME" : "Assured Guaranty Ltd.",
     "DESCRIPTION" : "n/a",
     "BOOK_STATUS" : "Cancelled",
@@ -346,8 +346,8 @@
 
 /* 24 */
 {
-    "_id" : ObjectId("6101099c18819471490d5090"),
-    "ORDER_ID" : NumberDecimal("24"),
+    "_id" : 6101099c18819471490d5090,
+    "ORDER_ID" : 24,
     "NAME" : "Electrum Special Acquisition Corporation",
     "DESCRIPTION" : "Business Services",
     "BOOK_STATUS" : "Progress",
@@ -361,8 +361,8 @@
 
 /* 25 */
 {
-    "_id" : ObjectId("6101099c18819471490d5091"),
-    "ORDER_ID" : NumberDecimal("25"),
+    "_id" : 6101099c18819471490d5091,
+    "ORDER_ID" : 25,
     "NAME" : "Blackrock MuniEnhanced Fund Inc.",
     "DESCRIPTION" : "n/a",
     "BOOK_STATUS" : "Cancelled",
@@ -376,8 +376,8 @@
 
 /* 26 */
 {
-    "_id" : ObjectId("6101099c18819471490d5092"),
-    "ORDER_ID" : NumberDecimal("26"),
+    "_id" : 6101099c18819471490d5092,
+    "ORDER_ID" : 26,
     "NAME" : "Asia Pacific Wire & Cable Corporation Limited",
     "DESCRIPTION" : "Telecommunications Equipment",
     "BOOK_STATUS" : "Progress",
@@ -391,8 +391,8 @@
 
 /* 27 */
 {
-    "_id" : ObjectId("6101099c18819471490d5093"),
-    "ORDER_ID" : NumberDecimal("27"),
+    "_id" : 6101099c18819471490d5093,
+    "ORDER_ID" : 27,
     "NAME" : "DelMar Pharmaceuticals Inc.",
     "DESCRIPTION" : "Major Pharmaceuticals",
     "BOOK_STATUS" : "Booked",
@@ -406,8 +406,8 @@
 
 /* 28 */
 {
-    "_id" : ObjectId("6101099c18819471490d5094"),
-    "ORDER_ID" : NumberDecimal("28"),
+    "_id" : 6101099c18819471490d5094,
+    "ORDER_ID" : 28,
     "NAME" : "NXP Semiconductors N.V.",
     "DESCRIPTION" : "Semiconductors",
     "BOOK_STATUS" : "Cancelled",
@@ -421,8 +421,8 @@
 
 /* 29 */
 {
-    "_id" : ObjectId("6101099c18819471490d5095"),
-    "ORDER_ID" : NumberDecimal("29"),
+    "_id" : 6101099c18819471490d5095,
+    "ORDER_ID" : 29,
     "NAME" : "PROS Holdings Inc.",
     "DESCRIPTION" : "EDP Services",
     "BOOK_STATUS" : "Progress",
@@ -436,8 +436,8 @@
 
 /* 30 */
 {
-    "_id" : ObjectId("6101099c18819471490d5096"),
-    "ORDER_ID" : NumberDecimal("30"),
+    "_id" : 6101099c18819471490d5096,
+    "ORDER_ID" : 30,
     "NAME" : "Altimmune Inc.",
     "DESCRIPTION" : "Major Pharmaceuticals",
     "BOOK_STATUS" : "Booked",
@@ -451,8 +451,8 @@
 
 /* 31 */
 {
-    "_id" : ObjectId("6101099c18819471490d5097"),
-    "ORDER_ID" : NumberDecimal("31"),
+    "_id" : 6101099c18819471490d5097,
+    "ORDER_ID" : 31,
     "NAME" : "Rexnord Corporation",
     "DESCRIPTION" : "Industrial Machinery/Components",
     "BOOK_STATUS" : "Booked",
@@ -466,8 +466,8 @@
 
 /* 32 */
 {
-    "_id" : ObjectId("6101099c18819471490d5098"),
-    "ORDER_ID" : NumberDecimal("32"),
+    "_id" : 6101099c18819471490d5098,
+    "ORDER_ID" : 32,
     "NAME" : "Japan Smaller Capitalization Fund Inc",
     "DESCRIPTION" : "n/a",
     "BOOK_STATUS" : "Booked",
@@ -481,8 +481,8 @@
 
 /* 33 */
 {
-    "_id" : ObjectId("6101099c18819471490d5099"),
-    "ORDER_ID" : NumberDecimal("33"),
+    "_id" : 6101099c18819471490d5099,
+    "ORDER_ID" : 33,
     "NAME" : "Resources Connection Inc.",
     "DESCRIPTION" : "Business Services",
     "BOOK_STATUS" : "Booked",
@@ -496,8 +496,8 @@
 
 /* 34 */
 {
-    "_id" : ObjectId("6101099c18819471490d509a"),
-    "ORDER_ID" : NumberDecimal("34"),
+    "_id" : 6101099c18819471490d509a,
+    "ORDER_ID" : 34,
     "NAME" : "Annaly Capital Management Inc",
     "DESCRIPTION" : "n/a",
     "BOOK_STATUS" : "Cancelled",
@@ -511,8 +511,8 @@
 
 /* 35 */
 {
-    "_id" : ObjectId("6101099c18819471490d509b"),
-    "ORDER_ID" : NumberDecimal("35"),
+    "_id" : 6101099c18819471490d509b,
+    "ORDER_ID" : 35,
     "NAME" : "Sientra Inc.",
     "DESCRIPTION" : "Industrial Specialties",
     "BOOK_STATUS" : "Progress",
@@ -526,8 +526,8 @@
 
 /* 36 */
 {
-    "_id" : ObjectId("6101099c18819471490d509c"),
-    "ORDER_ID" : NumberDecimal("36"),
+    "_id" : 6101099c18819471490d509c,
+    "ORDER_ID" : 36,
     "NAME" : "Brookfield Asset Management Inc",
     "DESCRIPTION" : "Building operators",
     "BOOK_STATUS" : "Booked",
@@ -541,8 +541,8 @@
 
 /* 37 */
 {
-    "_id" : ObjectId("6101099c18819471490d509d"),
-    "ORDER_ID" : NumberDecimal("37"),
+    "_id" : 6101099c18819471490d509d,
+    "ORDER_ID" : 37,
     "NAME" : "EastGroup Properties Inc.",
     "DESCRIPTION" : "Real Estate Investment Trusts",
     "BOOK_STATUS" : "Progress",
@@ -556,8 +556,8 @@
 
 /* 38 */
 {
-    "_id" : ObjectId("6101099c18819471490d509e"),
-    "ORDER_ID" : NumberDecimal("38"),
+    "_id" : 6101099c18819471490d509e,
+    "ORDER_ID" : 38,
     "NAME" : "Dawson Geophysical Company",
     "DESCRIPTION" : "Oil & Gas Production",
     "BOOK_STATUS" : "Booked",
@@ -571,8 +571,8 @@
 
 /* 39 */
 {
-    "_id" : ObjectId("6101099c18819471490d509f"),
-    "ORDER_ID" : NumberDecimal("39"),
+    "_id" : 6101099c18819471490d509f,
+    "ORDER_ID" : 39,
     "NAME" : "NN Inc.",
     "DESCRIPTION" : "Metal Fabrications",
     "BOOK_STATUS" : "Booked",
@@ -586,8 +586,8 @@
 
 /* 40 */
 {
-    "_id" : ObjectId("6101099c18819471490d50a0"),
-    "ORDER_ID" : NumberDecimal("40"),
+    "_id" : 6101099c18819471490d50a0,
+    "ORDER_ID" : 40,
     "NAME" : "QCR Holdings Inc.",
     "DESCRIPTION" : "Major Banks",
     "BOOK_STATUS" : "Progress",
@@ -601,8 +601,8 @@
 
 /* 41 */
 {
-    "_id" : ObjectId("6101099c18819471490d50a1"),
-    "ORDER_ID" : NumberDecimal("41"),
+    "_id" : 6101099c18819471490d50a1,
+    "ORDER_ID" : 41,
     "NAME" : "Health Insurance Innovations Inc.",
     "DESCRIPTION" : "Specialty Insurers",
     "BOOK_STATUS" : "Progress",
@@ -616,8 +616,8 @@
 
 /* 42 */
 {
-    "_id" : ObjectId("6101099c18819471490d50a2"),
-    "ORDER_ID" : NumberDecimal("42"),
+    "_id" : 6101099c18819471490d50a2,
+    "ORDER_ID" : 42,
     "NAME" : "PIMCO Dynamic Income Fund",
     "DESCRIPTION" : "n/a",
     "BOOK_STATUS" : "Booked",
@@ -631,8 +631,8 @@
 
 /* 43 */
 {
-    "_id" : ObjectId("6101099c18819471490d50a3"),
-    "ORDER_ID" : NumberDecimal("43"),
+    "_id" : 6101099c18819471490d50a3,
+    "ORDER_ID" : 43,
     "NAME" : "Casella Waste Systems Inc.",
     "DESCRIPTION" : "Environmental Services",
     "BOOK_STATUS" : "Cancelled",
@@ -646,8 +646,8 @@
 
 /* 44 */
 {
-    "_id" : ObjectId("6101099c18819471490d50a4"),
-    "ORDER_ID" : NumberDecimal("44"),
+    "_id" : 6101099c18819471490d50a4,
+    "ORDER_ID" : 44,
     "NAME" : "Angie's List Inc.",
     "DESCRIPTION" : "Advertising",
     "BOOK_STATUS" : "Progress",
@@ -661,8 +661,8 @@
 
 /* 45 */
 {
-    "_id" : ObjectId("6101099c18819471490d50a5"),
-    "ORDER_ID" : NumberDecimal("45"),
+    "_id" : 6101099c18819471490d50a5,
+    "ORDER_ID" : 45,
     "NAME" : "Carriage Services Inc.",
     "DESCRIPTION" : "Other Consumer Services",
     "BOOK_STATUS" : "Booked",
@@ -676,8 +676,8 @@
 
 /* 46 */
 {
-    "_id" : ObjectId("6101099c18819471490d50a6"),
-    "ORDER_ID" : NumberDecimal("46"),
+    "_id" : 6101099c18819471490d50a6,
+    "ORDER_ID" : 46,
     "NAME" : "OFG Bancorp",
     "DESCRIPTION" : "n/a",
     "BOOK_STATUS" : "Progress",
@@ -691,8 +691,8 @@
 
 /* 47 */
 {
-    "_id" : ObjectId("6101099c18819471490d50a7"),
-    "ORDER_ID" : NumberDecimal("47"),
+    "_id" : 6101099c18819471490d50a7,
+    "ORDER_ID" : 47,
     "NAME" : "Xencor Inc.",
     "DESCRIPTION" : "Major Pharmaceuticals",
     "BOOK_STATUS" : "Progress",
@@ -706,8 +706,8 @@
 
 /* 48 */
 {
-    "_id" : ObjectId("6101099c18819471490d50a8"),
-    "ORDER_ID" : NumberDecimal("48"),
+    "_id" : 6101099c18819471490d50a8,
+    "ORDER_ID" : 48,
     "NAME" : "Capitala Finance Corp.",
     "DESCRIPTION" : "n/a",
     "BOOK_STATUS" : "Booked",
@@ -721,8 +721,8 @@
 
 /* 49 */
 {
-    "_id" : ObjectId("6101099c18819471490d50a9"),
-    "ORDER_ID" : NumberDecimal("49"),
+    "_id" : 6101099c18819471490d50a9,
+    "ORDER_ID" : 49,
     "NAME" : "Anheuser-Busch Inbev SA",
     "DESCRIPTION" : "Beverages (Production/Distribution)",
     "BOOK_STATUS" : "Cancelled",
@@ -736,8 +736,8 @@
 
 /* 50 */
 {
-    "_id" : ObjectId("6101099c18819471490d50aa"),
-    "ORDER_ID" : NumberDecimal("50"),
+    "_id" : 6101099c18819471490d50aa,
+    "ORDER_ID" : 50,
     "NAME" : "Curtiss-Wright Corporation",
     "DESCRIPTION" : "Industrial Machinery/Components",
     "BOOK_STATUS" : "Booked",
