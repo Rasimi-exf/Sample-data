@@ -1,0 +1,257 @@
+[
+  {
+    "State": "AK",
+    "Range": "164.2 to 174.4",
+    "Rate": 173.1
+  },
+  {
+    "State": "AL",
+    "Range": "174.5 to 199.3",
+    "Rate": 182.1
+  },
+  {
+    "State": "AR",
+    "Range": "174.5 to 199.3",
+    "Rate": 189.6
+  },
+  {
+    "State": "AZ",
+    "Range": "127.9 to 155.3",
+    "Rate": 146.4
+  },
+  {
+    "State": "CA",
+    "Range": "127.9 to 155.3",
+    "Rate": 146.6
+  },
+  {
+    "State": "CO",
+    "Range": "127.9 to 155.3",
+    "Rate": 139.2
+  },
+  {
+    "State": "CT",
+    "Range": "127.9 to 155.3",
+    "Rate": 147.8
+  },
+  {
+    "State": "DC",
+    "Range": "174.5 to 199.3",
+    "Rate": 177.7
+  },
+  {
+    "State": "DE",
+    "Range": "164.2 to 174.4",
+    "Rate": 167.1
+  },
+  {
+    "State": "FL",
+    "Range": "127.9 to 155.3",
+    "Rate": 154.9
+  },
+  {
+    "State": "GA",
+    "Range": "164.2 to 174.4",
+    "Rate": 168.1
+  },
+  {
+    "State": "HI",
+    "Range": "127.9 to 155.3",
+    "Rate": 134.9
+  },
+  {
+    "State": "IA",
+    "Range": "164.2 to 174.4",
+    "Rate": 168.2
+  },
+  {
+    "State": "ID",
+    "Range": "155.4 to 164.1",
+    "Rate": 156.3
+  },
+  {
+    "State": "IL",
+    "Range": "164.2 to 174.4",
+    "Rate": 171.7
+  },
+  {
+    "State": "IN",
+    "Range": "174.5 to 199.3",
+    "Rate": 179.4
+  },
+  {
+    "State": "KS",
+    "Range": "155.4 to 164.1",
+    "Rate": 162.9
+  },
+  {
+    "State": "KY",
+    "Range": "174.5 to 199.3",
+    "Rate": 199.3
+  },
+  {
+    "State": "LA",
+    "Range": "174.5 to 199.3",
+    "Rate": 188.7
+  },
+  {
+    "State": "MA",
+    "Range": "155.4 to 164.1",
+    "Rate": 159.7
+  },
+  {
+    "State": "MD",
+    "Range": "155.4 to 164.1",
+    "Rate": 163
+  },
+  {
+    "State": "ME",
+    "Range": "174.5 to 199.3",
+    "Rate": 174.8
+  },
+  {
+    "State": "MI",
+    "Range": "164.2 to 174.4",
+    "Rate": 170.2
+  },
+  {
+    "State": "MN",
+    "Range": "127.9 to 155.3",
+    "Rate": 155.1
+  },
+  {
+    "State": "MO",
+    "Range": "174.5 to 199.3",
+    "Rate": 179.1
+  },
+  {
+    "State": "MS",
+    "Range": "174.5 to 199.3",
+    "Rate": 196.5
+  },
+  {
+    "State": "MT",
+    "Range": "127.9 to 155.3",
+    "Rate": 154
+  },
+  {
+    "State": "NC",
+    "Range": "164.2 to 174.4",
+    "Rate": 167.7
+  },
+  {
+    "State": "ND",
+    "Range": "127.9 to 155.3",
+    "Rate": 150.8
+  },
+  {
+    "State": "NE",
+    "Range": "155.4 to 164.1",
+    "Rate": 160.7
+  },
+  {
+    "State": "NH",
+    "Range": "155.4 to 164.1",
+    "Rate": 158.6
+  },
+  {
+    "State": "NJ",
+    "Range": "155.4 to 164.1",
+    "Rate": 156
+  },
+  {
+    "State": "NM",
+    "Range": "127.9 to 155.3",
+    "Rate": 145.1
+  },
+  {
+    "State": "NV",
+    "Range": "164.2 to 174.4",
+    "Rate": 164.9
+  },
+  {
+    "State": "NY",
+    "Range": "155.4 to 164.1",
+    "Rate": 155.5
+  },
+  {
+    "State": "OH",
+    "Range": "174.5 to 199.3",
+    "Rate": 177.4
+  },
+  {
+    "State": "OK",
+    "Range": "174.5 to 199.3",
+    "Rate": 185.4
+  },
+  {
+    "State": "OR",
+    "Range": "155.4 to 164.1",
+    "Rate": 163.2
+  },
+  {
+    "State": "PA",
+    "Range": "164.2 to 174.4",
+    "Rate": 170
+  },
+  {
+    "State": "RI",
+    "Range": "164.2 to 174.4",
+    "Rate": 173.9
+  },
+  {
+    "State": "SC",
+    "Range": "164.2 to 174.4",
+    "Rate": 174
+  },
+  {
+    "State": "SD",
+    "Range": "127.9 to 155.3",
+    "Rate": 154.1
+  },
+  {
+    "State": "TN",
+    "Range": "174.5 to 199.3",
+    "Rate": 185.4
+  },
+  {
+    "State": "TX",
+    "Range": "155.4 to 164.1",
+    "Rate": 156.9
+  },
+  {
+    "State": "UT",
+    "Range": "127.9 to 155.3",
+    "Rate": 127.9
+  },
+  {
+    "State": "VA",
+    "Range": "155.4 to 164.1",
+    "Rate": 162.3
+  },
+  {
+    "State": "VT",
+    "Range": "155.4 to 164.1",
+    "Rate": 164.1
+  },
+  {
+    "State": "WA",
+    "Range": "155.4 to 164.1",
+    "Rate": 156.3
+  },
+  {
+    "State": "WI",
+    "Range": "164.2 to 174.4",
+    "Rate": 164.6
+  },
+  {
+    "State": "WV",
+    "Range": "174.5 to 199.3",
+    "Rate": 190.5
+  },
+  {
+    "State": "WY",
+    "Range": "127.9 to 155.3",
+    "Rate": 147.7
+  }
+]
