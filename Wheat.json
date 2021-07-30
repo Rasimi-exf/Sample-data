@@ -1,30 +1,141 @@
-[{"wages":6.6,"year":"2020","wheat":91.8,"state":"Minnesota"},
-{"wages":16.4,"year":"2020","wheat":69.7,"state":"Florida"},
-{"wages":1.7,"year":"2020","wheat":52.9,"state":"California"},
-{"wages":23.7,"year":"2020","wheat":31.9,"state":"California"},
-{"wages":12.4,"year":"2021","wheat":26.5,"state":"California"},
-{"wages":2.5,"year":"2021","wheat":25.1,"state":"Florida"},
-{"wages":27.8,"year":"2020","wheat":40.7,"state":"California"},
-{"wages":25.8,"year":"2020","wheat":77.0,"state":"Florida"},
-{"wages":33.7,"year":"2021","wheat":93.8,"state":"California"},
-{"wages":27.0,"year":"2021","wheat":48.3,"state":"Florida"},
-{"wages":7.2,"year":"2020","wheat":72.4,"state":"Minnesota"},
-{"wages":27.0,"year":"2021","wheat":75.9,"state":"California"},
-{"wages":13.5,"year":"2021","wheat":63.8,"state":"Florida"},
-{"wages":15.4,"year":"2021","wheat":99.0,"state":"Florida"},
-{"wages":16.7,"year":"2021","wheat":53.3,"state":"California"},
-{"wages":13.2,"year":"2020","wheat":33.7,"state":"California"},
-{"wages":4.1,"year":"2021","wheat":96.2,"state":"California"},
-{"wages":12.4,"year":"2021","wheat":89.8,"state":"California"},
-{"wages":31.6,"year":"2021","wheat":80.4,"state":"California"},
-{"wages":23.4,"year":"2021","wheat":30.8,"state":"California"},
-{"wages":8.2,"year":"2020","wheat":47.9,"state":"Florida"},
-{"wages":18.8,"year":"2021","wheat":65.3,"state":"Florida"},
-{"wages":5.2,"year":"2021","wheat":46.0,"state":"California"},
-{"wages":29.2,"year":"2020","wheat":57.2,"state":"California"},
-{"wages":20.9,"year":"2020","wheat":57.3,"state":"California"},
-{"wages":5.3,"year":"2021","wheat":35.2,"state":"Florida"},
-{"wages":4.3,"year":"2021","wheat":56.0,"state":"California"},
-{"wages":16.1,"year":"2020","wheat":29.9,"state":"Minnesota"},
-{"wages":33.0,"year":"2021","wheat":99.7,"state":"Florida"},
-{"wages":18.3,"year":"2021","wheat":88.2,"state":"California"}]
+[{
+  "wages": 11.9,
+  "year": "2009",
+  "wheat": 85.5,
+  "state": "Florida"
+}, {
+  "wages": 26.4,
+  "year": "1999",
+  "wheat": 41.1,
+  "state": "Indiana"
+}, {
+  "wages": 19.3,
+  "year": "2004",
+  "wheat": 61.5,
+  "state": "Georgia"
+}, {
+  "wages": 4.4,
+  "year": "2017",
+  "wheat": 51.4,
+  "state": "Florida"
+}, {
+  "wages": 33.4,
+  "year": "2004",
+  "wheat": 45.1,
+  "state": "California"
+}, {
+  "wages": 24.7,
+  "year": "2016",
+  "wheat": 34.0,
+  "state": "California"
+}, {
+  "wages": 4.8,
+  "year": "2006",
+  "wheat": 94.5,
+  "state": "Florida"
+}, {
+  "wages": 1.5,
+  "year": "2001",
+  "wheat": 49.9,
+  "state": "California"
+}, {
+  "wages": 29.0,
+  "year": "2007",
+  "wheat": 74.0,
+  "state": "Florida"
+}, {
+  "wages": 2.7,
+  "year": "2013",
+  "wheat": 25.7,
+  "state": "California"
+}, {
+  "wages": 5.7,
+  "year": "2013",
+  "wheat": 26.3,
+  "state": "Georgia"
+}, {
+  "wages": 25.0,
+  "year": "2018",
+  "wheat": 93.1,
+  "state": "Florida"
+}, {
+  "wages": 1.6,
+  "year": "2013",
+  "wheat": 53.8,
+  "state": "California"
+}, {
+  "wages": 28.0,
+  "year": "2010",
+  "wheat": 71.8,
+  "state": "California"
+}, {
+  "wages": 9.7,
+  "year": "2004",
+  "wheat": 97.0,
+  "state": "California"
+}, {
+  "wages": 25.5,
+  "year": "2005",
+  "wheat": 56.0,
+  "state": "Indiana"
+}, {
+  "wages": 2.1,
+  "year": "2006",
+  "wheat": 84.2,
+  "state": "California"
+}, {
+  "wages": 17.2,
+  "year": "2013",
+  "wheat": 60.7,
+  "state": "Georgia"
+}, {
+  "wages": 34.9,
+  "year": "2011",
+  "wheat": 44.0,
+  "state": "Florida"
+}, {
+  "wages": 23.7,
+  "year": "2009",
+  "wheat": 85.9,
+  "state": "Florida"
+}, {
+  "wages": 20.5,
+  "year": "2002",
+  "wheat": 50.3,
+  "state": "Florida"
+}, {
+  "wages": 1.6,
+  "year": "2018",
+  "wheat": 99.4,
+  "state": "Florida"
+}, {
+  "wages": 29.5,
+  "year": "2000",
+  "wheat": 58.1,
+  "state": "Florida"
+}, {
+  "wages": 28.3,
+  "year": "2012",
+  "wheat": 86.0,
+  "state": "California"
+}, {
+  "wages": 5.9,
+  "year": "1998",
+  "wheat": 43.5,
+  "state": "California"
+}, {
+  "wages": 21.7,
+  "year": "2006",
+  "wheat": 65.0,
+  "state": "Indiana"
+}, {
+  "wages": 31.8,
+  "year": "2007",
+  "wheat": 71.3,
+  "state": "Florida"
+}, {
+  "wages": 13.0,
+  "year": "2008",
+  "wheat": 44.5,
+  "state": "California"
+}]
